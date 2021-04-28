@@ -27,13 +27,13 @@ src/
 ├──  App.js
 ├──  index.css
 ├── index.js
-└── components
+└── components/
     ├── Chart/
     │   ├── Chart.css
     │   ├── Chart.js
     │   ├──ChartBar.css
     │   └── ChartBar.js
-    ├──Expenses
+    ├──Expenses/
     │   ├── ExpenseDate.css
     │   ├── ExpenseDate.js
     │   ├── ExpenseItem.css
@@ -43,15 +43,15 @@ src/
     │   ├── ExpensesChart.js
     │   ├── ExpensesList.css
     │   └── ExpensesList.js
-    ├── ExpensesFilter        
+    ├── ExpensesFilter/       
     │   ├── ExpensesFilter.css
-    │   ├── ExpensesFilter.js
-    ├── NewExpense
+    │   └── ExpensesFilter.js
+    ├── NewExpense/
     │   ├── ExpenseForm.css
     │   ├── ExpenseForm.js
     │   ├── NewExpense.css
     │   └── NewExpemse.js
-    └── UI
+    └── UI/
         ├── Card.css
         └── Card.js
     
