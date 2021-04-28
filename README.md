@@ -54,6 +54,10 @@ src/
     
 ```
 
+<p align="center">
+  <img src="./expenses-tracker.png" width="350" title="Expenses Tracker App">
+</p>
+
 ## Creators
 
 **Creator 1**
