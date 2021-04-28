@@ -17,7 +17,7 @@
 ## What's included
 
 <p align="center">
-  <img src="expenses-tracker.gif" width="500" title="Expenses Tracker App">
+  <img src="expenses-tracker.gif" width="600" title="Expenses Tracker App">
 </p>
 
 File Structure
