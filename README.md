@@ -55,7 +55,7 @@ src/
 ```
 
 <p align="center">
-  <img src="./expenses-tracker.png" width="350" title="Expenses Tracker App">
+  <img src="expenses-tracker/expenses-tracker.PNG" width="350" title="Expenses Tracker App">
 </p>
 
 ## Creators
