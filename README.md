@@ -17,6 +17,10 @@
 
 ## What's included
 
+<p align="center">
+  <img src="expenses-tracker.PNG" width="500" title="Expenses Tracker App">
+</p>
+
 File Structure
 
 ```text
@@ -54,9 +58,6 @@ src/
     
 ```
 
-<p align="center">
-  <img src="expenses-tracker.PNG" width="350" title="Expenses Tracker App">
-</p>
 
 ## Creators
 
