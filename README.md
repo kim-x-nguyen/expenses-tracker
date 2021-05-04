@@ -15,7 +15,7 @@
 
 ## Getting started
 
-Start by cloning the project and extract files. Then open bash or CLI and type
+Start by cloning the project and extract files. Then open bash or CLI, navigate to the folder contains the project and type
 
 ```
 npm install
