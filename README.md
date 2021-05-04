@@ -9,10 +9,25 @@
 
 ## Table of contents
 
+- [Getting started](#getting-started)
 - [What's included](#whats-included)
 - [Creators](#creators)
 
+## Getting started
 
+Start by cloning the project and extract files. Then open bash or CLI and type
+
+```
+npm install
+```
+
+This is just an example application.
+
+Start build the application by using command:
+
+```
+npm start
+```
 
 ## What's included
 
